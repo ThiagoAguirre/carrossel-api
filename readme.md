@@ -25,3 +25,14 @@
 
 <h2> Criando as tabelas do banco de dados no migration</h2>
 <ul><li>yarn sequelize db:migrate</li></ul>
+
+<h2> Criando o migrations </h2>
+<ul><li>yarn sequelize migration:create --name=add-islogged-column-user-table</li></ul>
+
+
+<h2> Criando a criptografia </h2>
+<ul><li>npm install bcryptjs</li></ul>
+
+<h2> Criando o JWT </h2>
+<ul><li>yarn add jsonwebtoken</li></ul>
+
